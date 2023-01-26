@@ -1,14 +1,20 @@
-# go-slack-bot
+# GO Slack Bot
+
 Golang bot showing the basics of what would be needed for a slack bot enviornment. The accompanying slack api is set up with pictures.
 
 ### ~~ Required Github Modules ~~
+
 `go get -u github.com/joho/godotenv`
+
 `go get -u github.com/slack-go/slack`
+
 `go get -u github.com/slack-go/slack/socketmode`
+
 Install these prior to running the barebones app
 
 ### ~~ Slack Web Modifications
-# Create slack app at https://api.slack.com/apps/new
+Create slack app at 
+`https://api.slack.com/apps/new`
 
 ### App Info
 ![slackappinfo](https://user-images.githubusercontent.com/93270610/214758936-bb8f8355-19db-434c-acb5-8d6e794d01d9.png)
